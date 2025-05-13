@@ -34,13 +34,11 @@ banking-data-analytics-fraud-detection/
 ├── Loan_Performance_Analysis/
 │   ├── PowerBI/
 │   ├── SQL/
-│   ├── Excel/
 │   ├── Tableau/
 │   └── Dashboards/
 │
 ├── Risk_Fraud_Detection/
 │   ├── PowerBI/
 │   ├── SQL/
-│   ├── Excel/
 │   ├── Tableau/
 │   └── Dashboards/
