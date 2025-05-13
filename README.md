@@ -38,7 +38,7 @@ banking-data-analytics-fraud-detection/
 │   └── Dashboards/
 │
 ├── Risk_Fraud_Detection/
-│   ├── PowerBI/
+│   ├── PowerBI/https://drive.google.com/file/d/1M9cJf-XOWQzizUREJFnz35vr8L85CfPn/view?usp=sharing
 │   ├── SQL/
 │   ├── Tableau/
 │   └── Dashboards/
