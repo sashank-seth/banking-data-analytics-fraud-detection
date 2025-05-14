@@ -13,7 +13,7 @@ This repository contains two end-to-end projects focused on analyzing and visual
   - Default Loan Count & Percentage
   - Delinquent Client Count & Rate
   - State-wise and Branch-wise Performance
-- *Tools Used:* Power BI, SQL, Excel
+- *Tools Used:* Power BI, SQL, Excel,Tableau
 
 ### 2. *Banking Risk & Fraud Detection*
 - *Objective:* Detect high-risk and suspicious transactions through transactional pattern analysis.
@@ -22,7 +22,7 @@ This repository contains two end-to-end projects focused on analyzing and visual
   - Account Activity Ratio
   - High-Risk Transaction Flag
   - Suspicious Transaction Frequency
-- *Tools Used:* Power BI, SQL, Excel
+- *Tools Used:* Power BI, SQL, Excel,Tableau
 
 ---
 
@@ -39,7 +39,7 @@ banking-data-analytics-fraud-detection/
 │
 ├── Risk_Fraud_Detection/
 │   ├── PowerBI/
-[CLICK TO VIEW PowerBI](https://drive.google.com/file/d/1M9cJf-XOWQzizUREJFnz35vr8L85CfPn/view?usp=sharing)
+      ▶ [Click to View Risk Fraud Detection Power BI File](https://drive.google.com/file/d/1M9CjF-X0WqziUREJFnz35Vr8LS8CFPpn/view?usp=sharing)
 │   ├── SQL/
 │   ├── Tableau/
 │   └── Dashboards/
